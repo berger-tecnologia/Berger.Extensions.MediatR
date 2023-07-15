@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{aee40711-86f9-4b4c-8659-1a3f006efc55}") = "Berger.Extensions.Mediator", "Berger.Extensions.Mediator\Berger.Extensions.Mediator.csproj", "{0a8fcc37-abb7-4f71-8da5-dd4129791754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0a8fcc37-abb7-4f71-8da5-dd4129791754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0a8fcc37-abb7-4f71-8da5-dd4129791754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0a8fcc37-abb7-4f71-8da5-dd4129791754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0a8fcc37-abb7-4f71-8da5-dd4129791754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4961BE93-F316-4B63-8144-768113F9C617}
+	EndGlobalSection
+EndGlobal
