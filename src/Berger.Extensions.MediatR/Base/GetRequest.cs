@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Berger.Extensions.Abstractions;
 
-namespace Berger.Extensions.Mediator
+namespace Berger.Extensions.MediatR
 {
     public class GetRequest<T> where T : BaseEntity
     {

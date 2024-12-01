@@ -15,7 +15,7 @@ resources:
 
 jobs:
 - job: 'nuget'
-  displayName: Berger.Extensions.Mediator-Agent
+  displayName: Berger.Extensions.MediatR-Agent
   pool:
     vmImage: windows-latest
   steps:
